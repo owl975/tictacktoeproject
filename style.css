@@ -5,4 +5,11 @@
 .box {
   border: 1px solid black;
   height: 150px;
+
+}
+
+
+#newgame {
+	
+	margin-top: 15px;
 }
